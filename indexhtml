@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>amazing things </title>
+    </head>
+    <body>
+        <div id="all contents">
+            <nav>
+                <header>amazing things</header>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="protfolio.html">Porfolio</a></li>
+                <ul>
+            </nav>
+        
+             <main>
+                <div class="sidebar">
+                    <img
+                </div>
+                
+                <div class="content">
+                <header> Ryen LeBlanc </header>
+                <p> Student at denham springs high </p>
+                
+                <section class="intersects">
+                    <header>Interests</header>
+                    <ul>
+                        <li>Interest 1</li>
+                        <li>Interest 2</li>
+                        <li>Interest 3</li>
+                    </ul>
+                </section>
+                </div>
+            </main>
+        </div>    
+    </body>
+</html>
